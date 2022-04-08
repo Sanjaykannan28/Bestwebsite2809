@@ -35,11 +35,12 @@
     font-family: DotGothic16
 }
 .btn{
-    color: rgb(73, 226, 52);
+    color: rgb(255, 0, 0);
     position: absolute;
     left: 650px;
     height: 0.55cm;
     width:2cm;
+    background-color: rgb(255, 255, 255);
 }
 .ew{
     color: rgb(190, 125, 26);
