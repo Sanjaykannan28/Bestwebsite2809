@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+
+.prank{
+    color: rgb(190, 125, 26);
+    text-align: center;
+    font-size: 0.55cm;
+    font-family: DotGothic16
+}
+.img{
+    display: block;
+    margin: 0 auto;
+}
+.dad{
+
+    color: rgb(15, 226, 51);
+    text-align: center;
+    font-size: 1cm;
+    font-family: DotGothic16
+}
+.program{
+    color: rgb(73, 226, 52);
+    text-align: center;
+    font-family: DotGothic16
+}
+
+.src{
+    color: rgb(73, 226, 52);
+    text-align: center;
+    font-family: DotGothic16
+}
+.leave{
+    color: rgb(73, 226, 52);
+    text-align: center;
+    font-family: DotGothic16
+}
+.btn{
+    color: rgb(73, 226, 52);
+    position: absolute;
+    left: 650px;
+    height: 0.55cm;
+    width:2cm;
+}
+.ew{
+    color: rgb(190, 125, 26);
+    text-align: center;
+    font-size: 0.55cm;
+    font-family: DotGothic16
+}
+.space{
+    font-size: 0.55cm;
+}
+
